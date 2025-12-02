@@ -15,4 +15,4 @@ if __name__ == "__main__":
     year = 2024
 
     print(student_details(stud_id, name, course, year))
-    # Finished: SUCCESS  ← make it a comment if you want
+    
