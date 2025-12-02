@@ -9,4 +9,3 @@ def test_student_details():
     )
 
     assert student_details("e1101", "Alice", "BCA", 2024) == expected_output
-
