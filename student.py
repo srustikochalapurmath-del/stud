@@ -16,4 +16,4 @@ if __name__ == "__main__":
     course = "BCA"
     year = 2024
 
-    print(student_details(stud_id, name, course, year))
+    print(student_details(stud_id, name, course, year))  # Correct
