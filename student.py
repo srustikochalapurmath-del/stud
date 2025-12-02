@@ -1,5 +1,3 @@
-import pytest
-
 def student_details(stud_id, name, course, year):
     result = (
         f"studentid: {stud_id}\n"
@@ -16,4 +14,5 @@ if __name__ == "__main__":
     course = "BCA"
     year = 2024
 
-    print(student_details(stud_id, name, course, year))  # Correct
+    print(student_details(stud_id, name, course, year))
+    # Finished: SUCCESS  ← make it a comment if you want
